@@ -22,6 +22,3 @@ class Entry(models.Model):
     def __str__(self):
         return f"{self.text[:50]}..."
 
-
-#new super versiondsadsdas
-
