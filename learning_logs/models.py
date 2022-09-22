@@ -23,4 +23,4 @@ class Entry(models.Model):
         return f"{self.text[:50]}..."
 
 
-ыыыыыыыыыыыы
+#sdsadsadasdsadsadsddsdsa
