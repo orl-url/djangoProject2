@@ -23,5 +23,5 @@ class Entry(models.Model):
         return f"{self.text[:50]}..."
 
 
-#new super version
+#new super versiondsadsdas
 
